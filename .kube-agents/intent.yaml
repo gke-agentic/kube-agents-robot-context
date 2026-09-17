@@ -1,0 +1,3 @@
+# The obtainability audit reads only Markdown under these prefixes for `declares:` notes.
+paths:
+  - docs/standards/
